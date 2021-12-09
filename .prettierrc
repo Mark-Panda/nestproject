@@ -1,0 +1,6 @@
+{
+    "singleQuote": true,
+    "tabWidth": 4, //缩进字节数
+    "semi": true, // 句尾添加分号
+    "trailingComma": "all"
+}
